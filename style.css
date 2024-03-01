@@ -39,13 +39,6 @@ page{
     width: 73%;
     padding: 0.7cm;
   }
-.item{
-    padding-bottom: 0.7cm;
-    padding-top: 0.7cm;
-}
-.item h2{
-    margin-top: 0;
-}
 .linesep{
      border-bottom: 0.05cm solid white;
     
